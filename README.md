@@ -88,6 +88,8 @@
 ```
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
+###เมื่อทำการเขียนโค๊ดตามการทดลองผลของการรันโปรเเกรมจะได้ดังนี้
+![](https://github.com/tbnoung/LAB-02/blob/master/15.PNG)
 
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
